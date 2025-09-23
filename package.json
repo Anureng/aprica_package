@@ -1,0 +1,15 @@
+{
+  "name": "aprica-monitor",
+  "version": "1.0.0",
+  "description": "Zero-infra API performance & reliability SDK for Aprica Cloud",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "engines": { "node": ">=16.0.0" },
+  "exports": {
+    ".": {
+      "require": "./index.js",
+      "types": "./index.d.ts"
+    }
+  }
+}
