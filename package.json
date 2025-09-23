@@ -1,5 +1,5 @@
 {
-  "name": "aprica-monitor",
+  "name": "aprica",
   "version": "1.0.0",
   "description": "Zero-infra API performance & reliability SDK for Aprica Cloud",
   "main": "index.js",
